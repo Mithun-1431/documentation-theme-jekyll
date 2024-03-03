@@ -16,6 +16,10 @@ summary: These brief instructions will help you get started quickly with the the
 Follow these instructions to build the theme.
 A new line is added to the Build the Theme section. This is to enforce the action required by Mithun Prabhakara.
 
+I am adding the 2nd line under the "Build the Theme."
+I am adding the 3rd line under the "Build the Theme."
+I am adding the 4th line under the "Build the Theme."
+
 ### 1. Download the theme
 
 The Download thme button added by Mithun Prabhakara. 
