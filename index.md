@@ -1,3 +1,5 @@
+The file that is owned by Tom has been edited by Mithun Prabhakara. This is to see the update on the Cloudcannon CMS website.
+
 ---
 title: "Getting started with the Documentation Theme for Jekyll"
 keywords: sample homepage
@@ -12,8 +14,11 @@ summary: These brief instructions will help you get started quickly with the the
 ## Build the Theme
 
 Follow these instructions to build the theme.
+A new line is added to the Build the Theme section. This is to enforce the action required by Mithun Prabhakara.
 
 ### 1. Download the theme
+
+The Download thme button added by Mithun Prabhakara. 
 
 First, download or clone the theme from the [Github repo](https://github.com/tomjoht/documentation-theme-jekyll). Most likely you won't be pulling in updates once you start customizing the theme, so downloading the theme (instead of cloning it) probably makes the most sense. In Github, click the **Clone or download** button, and then click **Download ZIP**.
 
